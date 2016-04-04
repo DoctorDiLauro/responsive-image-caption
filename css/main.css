@@ -25,6 +25,8 @@ body {
 
 figure {
   margin: 0;
+
+  background-color: #e2e2e2;
 }
 
 .img-flex {
@@ -32,11 +34,22 @@ figure {
 }
 
 .caption {
-  background-color: #e2e2e2;
   padding: 1em;
 }
 
 .caption h2 {
   margin-top: 0;
   font-family: "Denk One", sans-serif;
+}
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 60em) {
+
+}
+
+@media only screen and (min-width: 90em) {
+
 }
